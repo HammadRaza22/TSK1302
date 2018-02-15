@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TSK1302</string>
+    <string name="name">LOG_IN</string>
+    <string name="Email">Example@yahoo.com</string>
+    <string name="pass">Password Character Atleast 6</string>
+</resources>
